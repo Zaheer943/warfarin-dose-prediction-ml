@@ -19,7 +19,7 @@ End-to-end machine learning pipeline for personalized Warfarin dose prediction u
 
 ## Dataset
 
-IWPC dataset (not included due to licensing). Please obtain from PharmGKB.
+IWPC dataset was obtained from PharmGKB.
 
 ## Author
 
